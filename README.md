@@ -1,6 +1,6 @@
 # 📝 To-Do List Application
 
-A simple and efficient To-Do List application built to help users manage daily tasks with ease. This project demonstrates core features like task creation, updating, deletion, and persistent data storage using local state or a database.
+A simple and efficient To-Do List application built to help users manage daily tasks with ease. This project demonstrates core features like task creation, updating, deletion, and persistent data storage using local state or a database..
 
 ---
 
