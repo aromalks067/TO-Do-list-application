@@ -21,7 +21,7 @@ A simple and efficient To-Do List application built to help users manage daily t
 - **Frontend:** HTML, CSS, JavaScript / React.js  
 - **Backend (optional):** Node.js, Express.js  
 - **Database (optional):** MongoDB / SQLite / LocalStorage  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub  .
 
 ---
 
